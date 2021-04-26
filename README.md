@@ -1,4 +1,4 @@
-<a href=gifted-varahamihira-34886b.netlify.app>Hosted Using Netlify</a>
+<a href=gifted-varahamihira-34886b.netlify.app rel="nofollow">Hosted Using Netlify</a>
 
 
 
