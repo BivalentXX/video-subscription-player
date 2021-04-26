@@ -18,7 +18,7 @@ Seed the database by....
 2) Uncomment import statement for 'seedDatabase' at the top of the '/db/firebase.prod.js'
 3) Save the '/db/firebase.prod.js' file a single time and it should seed your firebase database
 
-*be very careful with these steps. As live reloading will immediately activate functions. This can cause your firebase to seed multiple copies of the contents
+*be very careful with these steps. As live reloading will immediately activate functions. This can cause your firebase to seed multiple copies of the contents*
 
 
 # Getting Started with Create React App
