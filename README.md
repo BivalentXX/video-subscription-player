@@ -1,4 +1,6 @@
-[Hosted Using Netlify](gifted-varahamihira-34886b.netlify.app)
+[Hosted Using Netlify](google.com)
+
+(gifted-varahamihira-34886b.netlify.app)
 
 1) First major app. Followed Karl Hadwens' tutorial.
 2) all animation logic is in components.js [DONE]
