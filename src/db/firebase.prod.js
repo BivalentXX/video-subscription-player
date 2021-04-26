@@ -9,17 +9,17 @@
 import Firebase from 'firebase/app'
 import 'firebase/firestore'
 import 'firebase/auth'
-import { config } from '../config.js'
+// import { config } from '../config.js'
 
 
 
 const configKeys = {
-  apiKey: config.apiKey,
-  authDomain: config.authDomain,
-  projectId: config.apiKey,
-  storageBucket: config.storageBucket,
-  messagingSenderId: config.messagingSenderId,
-  appId: config.appId
+  apiKey: process.env.apiKey,
+  authDomain: process.env.authDomain,
+  projectId: process.env.apiKey,
+  storageBucket: process.env.storageBucket,
+  messagingSenderId: process.env.messagingSenderId,
+  appId: process.env.appId
 }
 
 const firebase = Firebase.initializeApp(configKeys)
