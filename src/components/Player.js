@@ -33,7 +33,12 @@ Player.Video = function PlayerVideo({ src, ...restProps }) {
 };
 
 Player.Button = function PlayerButton({ ...restProps }) {
+  /*eslint-disable */
+
   const { showPlayer, setShowPlayer } = useContext(PlayerContext);
+
+  /*eslint-enable */
+
 
   return (
     <Button onClick={() => setShowPlayer((showPlayer) => !showPlayer)} {...restProps}>
