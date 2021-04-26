@@ -1,10 +1,10 @@
 <=************************************************************************=>
+gifted-varahamihira-34886b.netlify.app
+
 1) First major app. Followed Karl Hadwens' tutorial.
-2) Still need to integrate testing.
-3) Also labeled animation hooks from Josh Comeau's website still need to be integrated.
-4) Need to clean up the architecture so that all animation logic is in components.js
-5) All user input logic is in the containers.js
-6) All global app state functionas are in the pages.js
+2) all animation logic is in components.js [DONE]
+3) All user input logic is in the containers.js 
+4) All global app state functionas are in the pages.js
 
 In order to initialize the project... 
 1) Link project on your firebase account
