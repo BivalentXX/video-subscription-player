@@ -1,5 +1,4 @@
-<=************************************************************************=>
-gifted-varahamihira-34886b.netlify.app
+**Hosted URL**: gifted-varahamihira-34886b.netlify.app
 
 1) First major app. Followed Karl Hadwens' tutorial.
 2) all animation logic is in components.js [DONE]
