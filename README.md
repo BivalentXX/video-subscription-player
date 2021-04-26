@@ -3,9 +3,9 @@
 
 
 1) First major app based on Netflix. Followed Karl Hadwens' tutorial.
-2) all animation logic is in components.js [DONE]
+2) All animation logic is in components.js [DONE]
 3) All user input logic is in the containers.js 
-4) All global app state functionas are in the pages.js
+4) All global app state functions are in the pages.js
 
 In order to initialize the project... 
 1) Link project on your firebase account
