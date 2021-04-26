@@ -1,11 +1,10 @@
 [Hosted Using Netlify](https://gifted-varahamihira-34886b.netlify.app/)
+-First major app based on Netflix. Followed Karl Hadwens' tutorial.
 
-
-
-1) First major app based on Netflix. Followed Karl Hadwens' tutorial.
-2) All animation logic is in components.js [DONE]
-3) All user input logic is in the containers.js 
-4) All global app state functions are in the pages.js
+TODOLIST
+3) All animation logic is in components.js [DONE]
+4) All user input logic is in the containers.js 
+5) All global app state functions are in the pages.js
 
 In order to initialize the project... 
 1) Link project on your firebase account
